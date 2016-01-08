@@ -1,12 +1,19 @@
 {
-  "author":"Sushant Gakhar",
-  "name" : "censorify",
-  "version":"0.0.1",
-  "description":"censor words out of text",
-  "main":"censortext",
-  "dependencies":{},
-  "engines":
-  {
-    "node":"*"
-  }
+	"author":"Sushant Gakhar",
+	"name":"censormytext",
+	"version":"0.0.4",
+	"description":"censors certain words in a text",
+	"main":"censortext.js",
+	"repository":{
+		"type":"git",
+		"url":"https://github.com/Sushantgakhar/censorify.git"
+	},
+	"keywords":[
+		"censor",
+		"words"
+	],
+	"dependencies":{},
+	"engines": {
+		"node":"*"
+	}
 }
