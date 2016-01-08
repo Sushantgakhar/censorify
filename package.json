@@ -1,0 +1,12 @@
+{
+  "author":"Sushant Gakhar",
+  "name" : "censorify",
+  "version":"0.0.1",
+  "description":"censor words out of text",
+  "main":"censortext",
+  "dependencies":{},
+  "engines":
+  {
+    "node":"*"
+  }
+}
